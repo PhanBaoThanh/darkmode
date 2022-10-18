@@ -1,0 +1,13 @@
+:root{
+    --backgroundColor: #fff;
+    --pink: #d23669;
+    --description: #64748b;
+    --text: #282c35;
+}
+
+[data-theme='dark'] {
+    --backgroundColor:#282c35;
+    --pink: #ffa7c4;
+    --description: #cbd5e1;
+    --text: #fff;
+}
